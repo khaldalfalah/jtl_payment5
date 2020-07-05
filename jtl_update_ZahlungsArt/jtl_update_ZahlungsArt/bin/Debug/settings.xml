@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <general_settings>
+    <mssql_server_database>
+    </mssql_server_database>
+    <mssql_username>
+    </mssql_username>
+    <mssql_password>
+    </mssql_password>
+    <tb_mssql_database>
+    </tb_mssql_database>
+  </general_settings>
+</root>
