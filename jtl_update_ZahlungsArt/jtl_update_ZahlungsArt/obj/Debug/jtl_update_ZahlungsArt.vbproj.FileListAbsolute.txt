@@ -1,0 +1,17 @@
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_tax\obj\Debug\jtl_update_ZahlungsArt.vbprojResolveAssemblyReference.cache
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_tax\obj\Debug\jtl_update_ZahlungsArt.Form1.resources
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_tax\obj\Debug\jtl_update_ZahlungsArt.Form2.resources
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_tax\obj\Debug\jtl_update_ZahlungsArt.Resources.resources
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_tax\obj\Debug\jtl_update_ZahlungsArt.vbproj.GenerateResource.Cache
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_tax\obj\Debug\jtl_update_ZahlungsArt.xml
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_update_ZahlungsArt\obj\Debug\jtl_update_ZahlungsArt.Form1.resources
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_update_ZahlungsArt\obj\Debug\jtl_update_ZahlungsArt.Resources.resources
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_update_ZahlungsArt\obj\Debug\jtl_update_ZahlungsArt.vbproj.GenerateResource.Cache
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_update_ZahlungsArt\obj\Debug\jtl_update_ZahlungsArt.xml
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_update_ZahlungsArt\bin\Debug\jtl_update_ZahlungsArt.exe.config
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_update_ZahlungsArt\bin\Debug\jtl_update_ZahlungsArt.exe
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_update_ZahlungsArt\bin\Debug\jtl_update_ZahlungsArt.pdb
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_update_ZahlungsArt\bin\Debug\jtl_update_ZahlungsArt.xml
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_update_ZahlungsArt\obj\Debug\jtl_update_ZahlungsArt.exe
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_update_ZahlungsArt\obj\Debug\jtl_update_ZahlungsArt.pdb
+D:\khaled programs 10-2018\other\Freelancer\vb and aspx and crystal reports\Germany\jtl_update_ZahlungsArt\jtl_update_ZahlungsArt\obj\Debug\jtl_update_ZahlungsArt.vbprojResolveAssemblyReference.cache

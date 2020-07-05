@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <general_settings>
+    <mssql_server_database>5.189.181.177,55555</mssql_server_database>
+    <mssql_username>sa</mssql_username>
+    <mssql_password>Schulze!</mssql_password>
+    <tb_mssql_database>eazybusiness</tb_mssql_database>
+  </general_settings>
+</root>
