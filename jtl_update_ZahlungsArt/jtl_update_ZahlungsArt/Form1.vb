@@ -16,7 +16,7 @@ Imports System.Security.Cryptography
 Imports Microsoft.Win32
 Imports Microsoft.Win32.Registry
 
-
+'hhhhhhhhh
 Public Class Form1
     Dim oconn, oconn2 As Data.OleDb.OleDbConnection
     Dim oconn3, oconn4 As Data.SqlClient.SqlConnection
@@ -25,7 +25,7 @@ Public Class Form1
     Dim odr, odr2 As Data.OleDb.OleDbDataReader
     Dim odr3, odr4 As Data.SqlClient.SqlDataReader
     Dim dt, dt2 As New DataTable
-    Dim start_before, start_before2 As Boolean
+    Dim start_before, start_before2, ttt As Boolean
     Dim regKey As RegistryKey
 
     Public Function check_db_connection() As Boolean
