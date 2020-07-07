@@ -17,6 +17,7 @@ Imports Microsoft.Win32
 Imports Microsoft.Win32.Registry
 
 'hhhhhhhhh
+'kkkkkkk
 Public Class Form1
     Dim oconn, oconn2 As Data.OleDb.OleDbConnection
     Dim oconn3, oconn4 As Data.SqlClient.SqlConnection
